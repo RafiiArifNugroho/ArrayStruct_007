@@ -28,3 +28,8 @@ int main()
 
     cout << "Alamat Kota:";
     cin >> mhs.alamat.kota;
+
+    cout << "Umur:";
+    cin >> mhs.umur;
+
+    cout << endl;
