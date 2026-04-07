@@ -23,3 +23,6 @@ int main()
     // Mengisi array datamu satu per satu
     cout << "Data Index ke - 0 : ";
     cin >> datamu[0];
+
+    cout << "Data Index ke - 1 : ";
+    cin >> datamu[1];
