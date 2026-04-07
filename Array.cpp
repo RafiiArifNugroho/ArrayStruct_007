@@ -40,3 +40,5 @@ int main()
     cout << "Data ke - 1 : " << datamu[0] << endl;
 
     cout << "Data ke - 2 : " << datamu[1] << endl;
+
+    cout << "Data ke - 3 : " << datamu[2] << endl;
