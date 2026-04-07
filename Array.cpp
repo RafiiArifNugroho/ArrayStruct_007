@@ -38,3 +38,5 @@ int main()
 
     // Tampilkan array datamu satu per satu
     cout << "Data ke - 1 : " << datamu[0] << endl;
+
+    cout << "Data ke - 2 : " << datamu[1] << endl;
