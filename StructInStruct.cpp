@@ -25,3 +25,6 @@ int main()
 
     cout << "Alamat Desa:";
     cin >> mhs.alamat.desa;
+
+    cout << "Alamat Kota:";
+    cin >> mhs.alamat.kota;
