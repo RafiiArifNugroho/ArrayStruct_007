@@ -12,3 +12,6 @@ int main()
 
     // Cara membaca array dataku
     cout << "Data ke - 3 : " << dataku[2] << endl;
+
+    // Operasi Matematika
+    x = dataku[2] * 3;
