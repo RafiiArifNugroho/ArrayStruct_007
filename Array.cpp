@@ -35,3 +35,6 @@ int main()
 
     cout << "Data Index ke - 4 : ";
     cin >> datamu[4];
+
+    // Tampilkan array datamu satu per satu
+    cout << "Data ke - 1 : " << datamu[0] << endl;
