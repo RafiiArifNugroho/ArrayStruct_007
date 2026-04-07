@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-struct DetailAlamat
+struct orang
 {
-    string desa;
-    string kota;
+    string nama;
+    string alamat;
+    int umur;
 };
