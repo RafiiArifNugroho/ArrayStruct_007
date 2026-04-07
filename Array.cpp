@@ -26,3 +26,6 @@ int main()
 
     cout << "Data Index ke - 1 : ";
     cin >> datamu[1];
+
+    cout << "Data Index ke - 2 : ";
+    cin >> datamu[2];
