@@ -22,3 +22,6 @@ int main()
     // isi objek
     cout << "Nama Mahasiswa:";
     cin >> mhs.nama;
+
+    cout << "Alamat Desa:";
+    cin >> mhs.alamat.desa;
